@@ -6,7 +6,7 @@
 
 ### OPTIONS AND VARIABLES ###
 
-progsfile="https://raw.githubusercontent.com/vivi870123/arch-install/master/progs.csv"
+progsfile="https://raw.githubusercontent.com/vivi870123/arch-install/main/progs.csv"
 aurhelper="yay"
 repobranch="master"
 export TERM=ansi
