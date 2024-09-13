@@ -52,7 +52,7 @@
 ,gammastep,"Adjust the color temperature of your screen according to your surroundings."
 ,bemenu,"Dynamic menu library and client program inspired by dmenu"
 ,bemenu-wayland,"Wayland (wlroots-based compositors) renderer for bemenu"
-,wlroots,"Modular Wayland compositor library"
+A,wlroots-git,"Modular Wayland compositor library"
 ,wtype,"Xdotool for wayland"
 ,wayland-protocols,"Specifications of extended wayland protocols"
 ,wl-clipboard,"Command-line copy/paste utilities for Wayland"
